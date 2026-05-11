@@ -55,11 +55,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rimy14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimy14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&langs_count=6" />
-
 <img src="https://streak-stats.demolab.com?user=Rimy14&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rimy14&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rimy14&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rimy14&theme=github_dark" />
 
 </div>
 
