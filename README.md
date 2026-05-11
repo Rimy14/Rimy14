@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗███╗   ███╗ █████╗ ███████╗
-██╔══██╗██║████╗ ████║██╔══██╗╚══███╔╝
-██████╔╝██║██╔████╔██║███████║  ███╔╝ 
-██╔══██╗██║██║╚██╔╝██║██╔══██║ ███╔╝  
-██║  ██║██║██║ ╚═╝ ██║██║  ██║███████╗
-╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
-```
-
-### `> Rimaz Nowfel` — Full-Stack Dev & CS Student
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=RIMAZ%20NOWFEL&fontSize=50&fontColor=000000&fontAlignY=40&fontAlign=50&desc=Full-Stack%20Dev%20%7C%20CS%20Student&descAlignY=58&descAlign=50&descColor=000000)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Java+%7C+Python+Engineer;Aspiring+DevOps+%7C+AI+Explorer;Always+building+something+new...)](https://git.io/typing-svg)
 
@@ -17,7 +8,7 @@
 
 ---
 
-## `$ whoami`
+## 👤 About Me
 
 ```json
 {
@@ -33,7 +24,7 @@
 
 ---
 
-## `$ ls skills/`
+## 🛠️ Skills
 
 **Frontend**
 
@@ -60,32 +51,21 @@
 
 ---
 
-## `$ cat projects.log`
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏠 [Estate Agent App](https://github.com/Rimy14/Estate-agent-app) | SPA for browsing & searching real estate properties | React, Vite, JS |
-| 💼 [Portfolio](https://github.com/Rimy14/Portfolio) | Personal portfolio showcasing my work | CSS, HTML |
-| 📦 [Sales Order Management](https://github.com/Rimy14/Sales-order-management-system) | Full-stack order management system | Spring Boot, React |
-| 📱 [IIT Connect](https://github.com/Dev-Liss/IIT-Connect) | Social platform for university students with real-time chat | React Native, Node.js |
-
----
-
-## `$ git log --stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimy14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88)
+<img src="https://github-readme-stats.vercel.app/api?username=Rimy14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimy14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimy14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&langs_count=6" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rimy14&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
+<img src="https://streak-stats.demolab.com?user=Rimy14&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
 
 </div>
 
 ---
 
-## `$ ping me`
+## 📬 Contact
 
 <div align="center">
 
@@ -94,3 +74,5 @@
 *`> Let's build something awesome together_`*
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer)
