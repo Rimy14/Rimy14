@@ -13,8 +13,7 @@
 ```json
 {
   "name": "Rimaz Nowfel",
-  "alias": "Rimy14",
-  "location": "Sri Lanka 🇱🇰",
+  "location": "Sri Lanka",
   "role": "Full-Stack Developer & CS Student",
   "stack": ["MERN", "Java", "Python"],
   "exploring": ["DevOps", "AI/ML", "Cloud"],
